@@ -1,0 +1,18 @@
+Clase: molde de galletas
+objeto: Estructura de datos más codigo. (galletas)
+
+
+al poner los nombres de clases se ponen en mayusculas
+
+metodos son funciones pero en POO se llaman metodos
+atributos: son caracteristicas
+
+metodos a las clases los atributos a los objetos, los objetos pueden ejecutar metodos y los metodos se pueden ligar a los objetos.
+
+init equivalente al metodo de constructor en otros lenguajes (como el constructor de Java)
+
+pilares de programación orientada a objetos
+encapsulamiento: para usar el atributo solamente dentro de la clase. (agregamos doble guión bajo a un atributo para encapsularlo, CON UNO ES LA BUENA PRACTICA HOY)
+abstraccion
+herencia
+polimorfismo

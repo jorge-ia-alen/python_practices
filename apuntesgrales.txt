@@ -1,0 +1,4 @@
+match "variable" es como un switch y se usa case como en cualquier otro lenguaje, solo que con la sintaxis de python.
+
+
+polimorfismo: modificacion de metodos cuando se heredan en otras clases. o Ejecutan el mismo metodo dos objetos diferentes
